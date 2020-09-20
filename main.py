@@ -1,6 +1,5 @@
 from tkinter import *
 import random
-import time
 
 score = 0
 colors = ['white', 'blue', 'green', 'yellow', 'orange', 'red', 'brown', 'black']
