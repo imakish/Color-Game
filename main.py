@@ -44,6 +44,7 @@ window = Tk()
 window.title('Color Game')
 window.geometry('675x435')
 photo = PhotoImage(file="icon.png")
+window.iconphoto(False, photo)
 
 blankLine = Label(window, font=20)
 instruction1 = Label(window, text="How to play : Press the Button with the NAME of the color", font=('helvetica', 11))
