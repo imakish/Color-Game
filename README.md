@@ -4,7 +4,7 @@ This is color game made in python tkinter. All instructions are given inside.
 
 ### Hi there, I'm Mohammed Akish - aka [Coder][ytb] 👋
 
-[![ytb] ~~~ https://www.youtube.com/channel/UCO24ZZpXZlp1fJhtE93aOsw]
+(![ytb] ~~~ https://www.youtube.com/channel/UCO24ZZpXZlp1fJhtE93aOsw)
 
 
 ## I'm a Coder , Developer
@@ -14,7 +14,7 @@ This is color game made in python tkinter. All instructions are given inside.
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I am a Gamer Do visit it [ytb]
 ### Spotify Playing 🎧
-[<img src="https://open.spotify.com/user/fuk57bckno22mo8vfzuk8tyf2]
+(<img src="https://open.spotify.com/user/fuk57bckno22mo8vfzuk8tyf2)
 
 
 
@@ -23,7 +23,7 @@ This is color game made in python tkinter. All instructions are given inside.
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Pyhton and many more]
+(<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />)[Pyhton and many more]
 
 
 ---
@@ -31,11 +31,11 @@ This is color game made in python tkinter. All instructions are given inside.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Sub Me rn !!](https://open.spotify.com/user/fuk57bckno22mo8vfzuk8tyf2]
+- [Sub Me rn !!](https://open.spotify.com/user/fuk57bckno22mo8vfzuk8tyf2)
 
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://open.spotify.com/user/fuk57bckno22mo8vfzuk8tyf2]
+➡️ [more videos...](https://open.spotify.com/user/fuk57bckno22mo8vfzuk8tyf2)
 
 ---
 
